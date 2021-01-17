@@ -23,7 +23,6 @@
                 <li class="nav-item"><a href="#Projects" class="nav-link">Projects</a></li>
                 <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
             </ul>
-        </div>
     </nav>
     <br><br><br><br>
     <div class="container text-white text-center">
